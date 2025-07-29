@@ -1,7 +1,8 @@
 <div align="center">
   
  
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/@HeisJeremiah1?style=social)](https://twitter.com/intent/follow?screen_name=@HeisJeremiah1
+)
 
 
   <br />
